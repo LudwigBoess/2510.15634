@@ -1,0 +1,5 @@
+data/radial_binning/*
+maps/*
+Plots/*
+scripts/Fig04_new.jl
+scripts/allsky/mhd.slurm
